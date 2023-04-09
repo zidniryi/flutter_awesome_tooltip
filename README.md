@@ -20,13 +20,19 @@ Tooltip library for React
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+Option | Type | Default | Description
+--- | --- | --- | ---
+|[`message`](#message) | `String` | `` | String text tooltip.|
+|[`child`](#child) | `Widget` | `child` | for icon or others child stuff
+|[`direction`](#direction) | `Enum` | `LibraryTooltipDirection` | direction for tooltip
+|[`closeButtonStyle`](#closeButtonStyle) | `style` | `style` | style for input close x
+|[`TextStyle`](#TextStyle) | `TextStyle` | `style` | style for text tooltip
+|[`Color`](#Color) | `placehoColorlder` | `Color` | Color Text
+
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+For use this just install then follow the code below
 
 ```dart
 import 'package:flutter/material.dart';
