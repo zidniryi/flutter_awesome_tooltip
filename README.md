@@ -11,12 +11,12 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+# flutter_awesome_tooltip
+easy-to-use and lightweight flutter tooltip library
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+Tooltip library for React
 
 ## Getting started
 
@@ -29,7 +29,29 @@ TODO: Include short and useful examples for package users. Add longer examples
 to `/example` folder.
 
 ```dart
-const like = 'sample';
+import 'package:flutter/material.dart';
+import 'package:flutter_awesome_tooltip/flutter_awesome_tooltip.dart';
+
+class MyWidget extends StatefulWidget {
+  const MyWidget({super.key});
+
+  @override
+  State<MyWidget> createState() => _MyWidgetState();
+}
+
+class _MyWidgetState extends State<MyWidget> {
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      child: const FlutterAwesomeTooltip(
+        message: 'This is a tooltip',
+        child: Icon(Icons.info),
+        direction: LibraryTooltipDirection.top,
+      ),
+    );
+  }
+}
+
 ```
 
 ## Additional information
