@@ -1,7 +1,7 @@
 name: flutter_awesome_tooltip
 description: easy-to-use and lightweight flutter tooltip library
 version: 0.0.1
-homepage:
+homepage: https://github.com/zidniryi/flutter_awesome_tooltip
 
 environment:
   sdk: ">=2.18.4 <3.0.0"
