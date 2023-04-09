@@ -27,7 +27,7 @@ Option | Type | Default | Description
 |[`direction`](#direction) | `Enum` | `LibraryTooltipDirection` | direction for tooltip
 |[`closeButtonStyle`](#closeButtonStyle) | `style` | `style` | style for input close x
 |[`TextStyle`](#TextStyle) | `TextStyle` | `style` | style for text tooltip
-|[`Color`](#Color) | `placehoColorlder` | `Color` | Color Text
+|[`Color`](#Color) | `Color` | `Color` | Color Text
 
 
 ## Usage
