@@ -16,7 +16,7 @@ easy-to-use and lightweight flutter tooltip library
 
 ## Features
 
-Tooltip library for React
+Tooltip library for Flutter
 
 ## Getting started
 
@@ -62,4 +62,4 @@ class _MyWidgetState extends State<MyWidget> {
 
 ## Additional information
 
-More information : [https://github.com/zidniryi/react-awesome-tags-input/edit/main/README.md(https://github.com/zidniryi/react-awesome-tags-input/edit/main/README.md). 
+More information : https://github.com/zidniryi/flutter_awesome_tooltip
