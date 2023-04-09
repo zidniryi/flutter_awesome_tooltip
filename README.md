@@ -62,6 +62,4 @@ class _MyWidgetState extends State<MyWidget> {
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+More information : [https://github.com/zidniryi/react-awesome-tags-input/edit/main/README.md(https://github.com/zidniryi/react-awesome-tags-input/edit/main/README.md). 
