@@ -5,3 +5,7 @@
 ## 1.0.1
 
 * update documentation
+
+## 1.0.2
+
+* update documentation and typo docs
